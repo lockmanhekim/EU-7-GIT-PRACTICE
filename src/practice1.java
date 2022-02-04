@@ -6,5 +6,6 @@ public class practice1 {
         System.out.println("lokman");
         System.out.println("mehmet");
         System.out.println(",,abdullah");
+        System.out.println("rabia");
     }
 }
