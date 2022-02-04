@@ -5,6 +5,6 @@ public class practice1 {
         System.out.println("apple");
         System.out.println("lokman");
         System.out.println("mehmet");
-
+        System.out.println(",,abdullah");
     }
 }
