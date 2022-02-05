@@ -3,5 +3,6 @@ public class practice2 {
     {
         System.out.println("Yusuf");
         System.out.println("Aynur");
+        System.out.println("Hello");
     }
 }
